@@ -11,7 +11,7 @@ root.render(
     <App />
     <WeatherForecast />
     <footer>
-      Coded by Astry Brana, hosted on
+      Coded by Astry Brana, open-sourced on
       <a href="https://github.com/SpectreKitty/Weather-React-New"> GitHub </a>
       hosted on <a href="https://delicious-pastelito.netlify.app/"> Netlify</a>
     </footer>
