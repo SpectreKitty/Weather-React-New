@@ -10,6 +10,11 @@ root.render(
   <React.StrictMode>
     <App />
     <WeatherForecast />
+    <footer>
+      Coded by Astry Brana, hosted on
+      <a href="https://github.com/SpectreKitty/Weather-React-New"> GitHub </a>
+      hosted on <a href="https://delicious-pastelito.netlify.app/"> Netlify</a>
+    </footer>
   </React.StrictMode>
 );
 
